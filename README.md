@@ -17,18 +17,18 @@ I'm a Computer Science Student with a passion for problem-solving, data analysis
 ## 📚 Projects
 Here are a few of my projects:
 
-### 1. [Rock Paper Scissors]
+### 1. Rock Paper Scissors
 - **Description:** Using this tool we can play Rock Paper Scissors game digitally.
 Designed using random library of python
 Score is generated.
 - **Technologies Used:** Python
 
-### 2. [CA Evaluator System]
+### 2. CA Evaluator System
 - **Description:** This project is used to store, modify, fetch and delete CA Scores of students.
 - **Advantages**: Time-saver, reliable.
 - **Technologies Used:** C.
 
-### 3. [Online Grocery Shopping Website]
+### 3. Online Grocery Shopping Website
 - **Description:** A website used for online grocery shopping.
 - **Advantages**: Time-saver, reliable.
 - **Technologies Used:** HTML5, CSS, JavaScript.
