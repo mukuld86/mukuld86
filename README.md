@@ -3,11 +3,12 @@
 I'm a Computer Science Student with a passion for problem-solving, data analysis, and software development. I enjoy working with various technologies and constantly expanding my skill set.
 
 ## 💼 Skills
-- **Programming Languages:** Java, Python, C++, C, R
+- **Programming Languages:** Java, Python, C, C++, R
 - **Data Analysis & Visualization:** Excel, Tableau
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
-- **Tools & Technologies:** VS Code, IntelliJ Idea, RStudio, PyCharm
+- ** Frameworks:** Hadoop, Hive, HBase
+- **Tools & Technologies:** Docker, RStudio
 
 ## 📈 What I Do
 - **Data Analysis:** Exploring data sets, creating insightful visualizations, and deriving meaningful conclusions using R, Tableau, and Excel.
@@ -34,9 +35,8 @@ Score is generated.
 - **Technologies Used:** HTML5, CSS, JavaScript.
 
 ## 🌱 Currently Learning
-- Data Visualization Using Tableu
+- Virtualization and Containerization using Docker
 - Advanced data structures in Java
-- Machine Learning with R
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukuld86&show_icons=true&locale=en&layout=compact" alt="mukuld86" /></p>
 
