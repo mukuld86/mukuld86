@@ -39,8 +39,8 @@ Score is generated.
 - Advanced data structures in Java
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukuld86&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld86&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mukuld86&show_icons=true&theme=default" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld86&layout=compact&theme=default" alt="Top Langs" height="200"/>
 </p>
 
 
