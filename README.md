@@ -32,7 +32,7 @@ Here are a few of my projects:
 
 ### 3. Grocery Website
 - **Description:** A fully-functional online grocery shopping platform that allows users to browse, add products to their cart, and proceed to checkout.
-- **Technologies Used:** HTML5, CSS, JavaScript
+- **Technologies Used:** HTML, CSS, JavaScript
 
 ### 4. CA Evaluator System
 - **Description:** A system to store, modify, fetch, and delete CA scores for students, streamlining the evaluation process.
@@ -40,9 +40,9 @@ Here are a few of my projects:
 - **Technologies Used:** C
 
 ## 🔧 Skills
-- **Languages:** Python, Java, C, JavaScript, HTML, CSS
-- **Frameworks:** Swing
-- **Tools & Technologies:** Git, GitHub, VS Code
+- **Languages:** Java, C, C++, Python, JavaScript, HTML, CSS
+- **Frameworks:** Swing, Hadoop
+- **Tools & Technologies:** Git, GitHub, Docker, Tableau, MS Excel
 
 ## 🌱 Currently Learning
 - Virtualization and Containerization using Docker
