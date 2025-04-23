@@ -38,7 +38,6 @@ Score is generated.
 - Virtualization and Containerization using Docker
 - Advanced data structures in Java
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukuld86&show_icons=true&locale=en&layout=compact" alt="mukuld86" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukuld86&show_icons=true&locale=en" alt="mukuld86" /></p>
 
