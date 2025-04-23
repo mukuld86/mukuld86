@@ -15,24 +15,34 @@ I'm a Computer Science Student with a passion for problem-solving, data analysis
 - **Software Development:** Building efficient and scalable software using Java with a focus on algorithms and data structures.
 - **Databases:** Designing, querying, and managing databases using MySQL.
 
+# Hi there, I'm Mukul! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a focus on creating functional and efficient applications. Below, you'll find some of the projects I've worked on, showcasing my skills and interests.
+
 ## 📚 Projects
 Here are a few of my projects:
 
-### 1. Rock Paper Scissors
-- **Description:** Using this tool we can play Rock Paper Scissors game digitally.
-Designed using random library of python
-Score is generated.
-- **Technologies Used:** Python
+### 1. Simple Calculator using Swing
+- **Description:** A basic calculator application built using Java Swing that performs standard arithmetic operations.
+- **Technologies Used:** Java, Swing
 
-### 2. CA Evaluator System
-- **Description:** This project is used to store, modify, fetch and delete CA Scores of students.
-- **Advantages**: Time-saver, reliable.
-- **Technologies Used:** C.
+### 2. Solar Calculator Website
+- **Description:** A website designed to calculate solar energy requirements, helping users determine the number of solar panels required for their home or office based on energy usage.
+- **Technologies Used:** HTML, CSS, JavaScript
 
-### 3. Online Grocery Shopping Website
-- **Description:** A website used for online grocery shopping.
-- **Advantages**: Time-saver, reliable.
-- **Technologies Used:** HTML5, CSS, JavaScript.
+### 3. Grocery Website
+- **Description:** A fully-functional online grocery shopping platform that allows users to browse, add products to their cart, and proceed to checkout.
+- **Technologies Used:** HTML5, CSS, JavaScript
+
+### 4. CA Evaluator System
+- **Description:** A system to store, modify, fetch, and delete CA scores for students, streamlining the evaluation process.
+- **Advantages:** Time-saver, reliable, and efficient.
+- **Technologies Used:** C
+
+## 🔧 Skills
+- **Languages:** Python, Java, C, JavaScript, HTML, CSS
+- **Frameworks:** Swing
+- **Tools & Technologies:** Git, GitHub, VS Code
 
 ## 🌱 Currently Learning
 - Virtualization and Containerization using Docker
