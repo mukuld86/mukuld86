@@ -3,11 +3,11 @@
 I'm a Computer Science Student with a passion for problem-solving, data analysis, and software development. I enjoy working with various technologies and constantly expanding my skill set.
 
 ## 💼 Skills
-- **Programming Languages:** Java, Python, C, C++, R
+- **Programming Languages:** Java, JavaScript, C, C++, Python, R
 - **Data Analysis & Visualization:** Excel, Tableau
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
-- ** Frameworks:** Hadoop, Hive, HBase
+- **Frameworks:** Hadoop, Hive, HBase
 - **Tools & Technologies:** Docker, RStudio
 
 ## 📈 What I Do
