@@ -42,6 +42,7 @@ Here are a few of my projects:
 
 ## 🌱 Currently Learning
 - Virtualization and Containerization using Docker
+- CI/CD Pipelines
 - Advanced data structures in Java
 - Backend Development using Node.js
 - Frontend Development using React
