@@ -1,6 +1,6 @@
-# Hi there, I'm Mukul Deshwal! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukuld86&label=Profile%20views&color=0e75b6&style=flat" alt="mukuld86" /> </p>
-I'm a Computer Science Student with a passion for problem-solving, data analysis, and software development. I enjoy working with various technologies and constantly expanding my skill set.
+# Hi there, I'm Mukul! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a focus on creating functional and efficient applications. Below, you'll find some of the projects I've worked on, showcasing my skills and interests.
 
 ## 💼 Skills
 - **Programming Languages:** Java, JavaScript, C, C++, Python, R
@@ -14,10 +14,6 @@ I'm a Computer Science Student with a passion for problem-solving, data analysis
 - **Data Analysis:** Exploring data sets, creating insightful visualizations, and deriving meaningful conclusions using R, Tableau, and Excel.
 - **Software Development:** Building efficient and scalable software using Java with a focus on algorithms and data structures.
 - **Databases:** Designing, querying, and managing databases using MySQL.
-
-# Hi there, I'm Mukul! 👋
-
-Welcome to my GitHub profile! I'm a passionate developer with a focus on creating functional and efficient applications. Below, you'll find some of the projects I've worked on, showcasing my skills and interests.
 
 ## 📚 Projects
 Here are a few of my projects:
