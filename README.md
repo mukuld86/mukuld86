@@ -43,6 +43,8 @@ Here are a few of my projects:
 ## 🌱 Currently Learning
 - Virtualization and Containerization using Docker
 - Advanced data structures in Java
+- Backend Development using Node.js
+- Frontend Development using React
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mukuld86&show_icons=true&theme=default" alt="GitHub Stats" height="200"/>
