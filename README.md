@@ -3,37 +3,46 @@
 Welcome to my GitHub profile! I'm a passionate developer with a focus on creating functional and efficient applications. Below, you'll find some of the projects I've worked on, showcasing my skills and interests.
 
 ## 💼 Skills
-- **Programming Languages:** Java, JavaScript, C, C++, Python, R
+- **Programming Languages:** Java, JavaScript, HTML, CSS, C, C++, Python, R
 - **Data Analysis & Visualization:** Excel, Tableau
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
 - **Frameworks:** Hadoop, Hive, HBase
-- **Tools & Technologies:** Docker, RStudio
+- **Tools & Technologies:** Docker, RStudio, VSCode
 
 ## 📈 What I Do
 - **Data Analysis:** Exploring data sets, creating insightful visualizations, and deriving meaningful conclusions using R, Tableau, and Excel.
-- **Software Development:** Building efficient and scalable software using Java with a focus on algorithms and data structures.
+- **Web Development:** Building efficient and scalable web pages using HTML, CSS and JavaScript with a focus on neat and responsive design.
 - **Databases:** Designing, querying, and managing databases using MySQL.
 
 ## 📚 Projects
 Here are a few of my projects:
 
-### 1. Simple Calculator using Swing
-- **Description:** A basic calculator application built using Java Swing that performs standard arithmetic operations.
-- **Technologies Used:** Java, Swing
+### 1. Stone Paper Scissors Game
+- **Description:** A fun and interactive browser game where the user competes against the computer in the classic Stone Paper Scissors challenge.
+- **Technologies Used:** HTML, CSS, JavaScript
 
-### 2. Solar Calculator Website
+### 2. Tic Tac Toe Game
+- **Description:** A web-based two-player Tic Tac Toe game. Features an interactive grid layout allowing players to take alternate turns and win by forming a line of three.
+- **Technologies Used:** HTML, CSS, JavaScript
+
+### 3. Solar Calculator Website
 - **Description:** A website designed to calculate solar energy requirements, helping users determine the number of solar panels required for their home or office based on energy usage.
 - **Technologies Used:** HTML, CSS, JavaScript
 
-### 3. Grocery Website
+### 4. Grocery Website
 - **Description:** A fully-functional online grocery shopping platform that allows users to browse, add products to their cart, and proceed to checkout.
 - **Technologies Used:** HTML, CSS, JavaScript
 
-### 4. CA Evaluator System
+### 5. Simple Calculator using Swing
+- **Description:** A basic calculator application built using Java Swing that performs standard arithmetic operations.
+- **Technologies Used:** Java, Swing
+
+### 6. CA Evaluator System
 - **Description:** A system to store, modify, fetch, and delete CA scores for students, streamlining the evaluation process.
 - **Advantages:** Time-saver, reliable, and efficient.
 - **Technologies Used:** C
+
 
 ## 🔧 Skills
 - **Languages:** Java, C, C++, Python, JavaScript, HTML, CSS
@@ -41,11 +50,11 @@ Here are a few of my projects:
 - **Tools & Technologies:** Git, GitHub, Docker, Tableau, MS Excel
 
 ## 🌱 Currently Learning
+- Advanced data structures in Java
+- Frontend Development using React
+- Backend Development using Node.js
 - Virtualization and Containerization using Docker
 - CI/CD Pipelines
-- Advanced data structures in Java
-- Backend Development using Node.js
-- Frontend Development using React
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mukuld86&show_icons=true&theme=default" alt="GitHub Stats" height="200"/>
