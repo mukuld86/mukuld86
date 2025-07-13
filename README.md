@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 - **Data Analysis & Visualization:** Excel, Tableau
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
-- **Frameworks:** Hadoop, Hive, HBase
-- **Tools & Technologies:** Docker, RStudio, VSCode
+- **Technologies:** GitHub Actions, CI/CD Pipelines, Fetch API
+- **Tools:** Docker, VSCode, GitHub Copilot
 
 ## 📈 What I Do
 - **Data Analysis:** Exploring data sets, creating insightful visualizations, and deriving meaningful conclusions using R, Tableau, and Excel.
