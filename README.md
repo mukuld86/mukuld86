@@ -1,73 +1,107 @@
-# Hi there, I'm Mukul! 👋
+# Hi, I’m Mukul Deshwal 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on creating functional and efficient applications. Below, you'll find some of the projects I've worked on, showcasing my skills and interests.
+Welcome to my GitHub! I’m a **Computer Science undergraduate and aspiring Full-Stack Developer** with hands-on experience building and deploying **MERN stack applications**. I enjoy solving problems, building scalable web apps, and continuously improving my engineering skills.
 
-## 💼 Skills
-- **Programming Languages:** Java, JavaScript, HTML, CSS, C, C++, Python, R
-- **Data Analysis & Visualization:** Excel, Tableau
-- **Databases:** MySQL
-- **Version Control:** Git, GitHub
-- **Technologies:** GitHub Actions, CI/CD Pipelines, Fetch API
-- **Tools:** Docker, VSCode, GitHub Copilot
+---
 
-## 📈 What I Do
-- **Data Analysis:** Exploring data sets, creating insightful visualizations, and deriving meaningful conclusions using R, Tableau, and Excel.
-- **Web Development:** Building efficient and scalable web pages using HTML, CSS and JavaScript with a focus on neat and responsive design.
-- **Databases:** Designing, querying, and managing databases using MySQL.
+## 🚀 About Me
+- 💻 Interested in **Full-Stack Web Development (MERN)**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🌐 Experience building and deploying **production-ready web applications**
+- 📈 Active problem solver on **LeetCode**
 
-## 📚 Projects
-Here are a few of my projects:
+---
 
-### 1. Stone Paper Scissors Game
-- **Description:** A fun and interactive browser game where the user competes against the computer in the classic Stone Paper Scissors challenge.
-- **Technologies Used:** HTML, CSS, JavaScript
+## 🛠️ Skills
 
-### 2. Tic Tac Toe Game
-- **Description:** A web-based two-player Tic Tac Toe game. Features an interactive grid layout allowing players to take alternate turns and win by forming a line of three.
-- **Technologies Used:** HTML, CSS, JavaScript
+### **Programming Languages**
+- JavaScript, Java, C++, SQL
 
-### 3. Solar Calculator Website
-- **Description:** A website designed to calculate solar energy requirements, helping users determine the number of solar panels required for their home or office based on energy usage.
-- **Technologies Used:** HTML, CSS, JavaScript
+### **Frontend Development**
+- HTML, CSS  
+- React.js (Vite)  
+- Tailwind CSS  
 
-### 4. Grocery Website
-- **Description:** A fully-functional online grocery shopping platform that allows users to browse, add products to their cart, and proceed to checkout.
-- **Technologies Used:** HTML, CSS, JavaScript
+### **Backend & Databases**
+- Node.js, Express.js  
+- MongoDB  
+- RESTful APIs  
 
-### 5. Simple Calculator using Swing
-- **Description:** A basic calculator application built using Java Swing that performs standard arithmetic operations.
-- **Technologies Used:** Java, Swing
+### **Tools & Platforms**
+- Git, GitHub  
+- Postman  
+- Docker (basic)  
+- Render (Deployment)
 
-### 6. CA Evaluator System
-- **Description:** A system to store, modify, fetch, and delete CA scores for students, streamlining the evaluation process.
-- **Advantages:** Time-saver, reliable, and efficient.
-- **Technologies Used:** C
+---
 
+## 📚 Featured Projects
 
-## 🔧 Skills
-- **Languages:** Java, C, C++, Python, JavaScript, HTML, CSS
-- **Frameworks:** Swing, Hadoop
-- **Tools & Technologies:** Git, GitHub, Docker, Tableau, MS Excel
+### 🔹 NoteVault — MERN Stack Notes Application
+- Full-stack notes application built using **MongoDB, Express.js, React.js, and Node.js**
+- Designed and implemented **RESTful APIs** for efficient client–server communication
+- Integrated **MongoDB** for persistent storage and **rate limiting using Upstash Redis**
+- Built a responsive UI using **React (Vite) and Tailwind CSS**
+- Deployed on **Render** with production environment configuration  
+- **Tech Stack:** JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+🔗 Repository: https://github.com/mukuld86/NoteVault
+
+---
+
+### 🔹 Currency Converter
+- Responsive web-based currency converter with real-time exchange rates
+- Integrated **Frankfurter API** to support 150+ international currencies
+- Implemented input validation and instant conversion feedback  
+- **Tech Stack:** HTML, CSS, JavaScript, Frankfurter API
+
+---
+
+### 🔹 Online Grocery Shopping Website
+- Fully responsive multi-page grocery website
+- Implemented dynamic cart functionality using JavaScript
+- 100% client-side interactivity  
+- **Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+## 🏆 Achievements
+- 🌍 **Global Rank 1476** in a LeetCode Weekly Contest (20,000+ participants)
+- 🧩 Solved **140+ problems on LeetCode**, demonstrating consistent problem-solving practice
+
+---
 
 ## 🌱 Currently Learning
-- Advanced data structures in Java
-- Frontend Development using React
-- Backend Development using Node.js
-- Virtualization and Containerization using Docker
-- CI/CD Pipelines
+- Advanced Data Structures & Algorithms  
+- **DevOps fundamentals and tools:** Docker, Kubernetes, Jenkins  
+- **Monitoring & Observability:** Prometheus, Grafana  
+- CI/CD concepts and deployment workflows  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukuld86&show_icons=true&theme=default" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld86&layout=compact&theme=default" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mukuld86&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld86&layout=compact&theme=default" height="180"/>
 </p>
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/mukuld86"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/mukuld86" /></a></p><br><br>
-
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect With Me
 <p align="left">
-<a href="https://twitter.com/mukuldeshwal086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukuldeshwal086" height="30" width="40" /></a> <a href="https://linkedin.com/in/mukul-deshwal86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul-deshwal86" height="30" width="40" /></a> <a href="https://instagram.com/deshwal__mukul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deshwal__mukul" height="30" width="40" /></a> <a href="https://www.codechef.com/users/mukul_86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukul_86" height="30" width="40" /></a> <a href="https://www.hackerrank.com/mukul_deshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukul_deshwal" height="30" width="40" /></a> <a href="https://www.leetcode.com/mukul_deshwal86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukul_deshwal86" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukul-deshwal86" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://www.leetcode.com/mukul_deshwal86" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+<a href="https://www.codechef.com/users/mukul_86" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+</a>
 </p>
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me.
+---
+
+Thanks for visiting my profile!  
+Feel free to explore my repositories or connect with me 🚀
