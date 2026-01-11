@@ -79,15 +79,6 @@ Welcome to my GitHub! I’m a **Computer Science undergraduate and aspiring Full
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukuld86&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld86&layout=compact&theme=default" height="180"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/mukul-deshwal86" target="_blank">
