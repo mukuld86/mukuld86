@@ -31,6 +31,7 @@ Welcome to my GitHub! I’m a **Computer Science undergraduate and aspiring Full
 - Git, GitHub  
 - Postman  
 - Docker (basic)  
+- Kubernetes (basic)  
 - Render (Deployment)
 
 ---
