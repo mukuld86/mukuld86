@@ -1,86 +1,88 @@
-# Hi, I’m Mukul Deshwal 👋
+# Mukul Deshwal – Portfolio
 
-Welcome to my GitHub! I’m a **Computer Science undergraduate and aspiring Full-Stack Developer** with hands-on experience building and deploying **MERN stack applications**. I enjoy solving problems, building scalable web apps, and continuously improving my engineering skills.
+## About Me
 
----
+DevOps-focused developer with hands-on experience in building, deploying, and monitoring scalable applications on cloud infrastructure.
 
-## 🚀 About Me
-- 💻 Interested in **Full-Stack Web Development (MERN)**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🌐 Experience building and deploying **production-ready web applications**
-- 📈 Active problem solver on **LeetCode**
+Experienced in containerization, orchestration, and observability using modern tools such as Docker, Kubernetes, Prometheus, and Grafana. Skilled in provisioning infrastructure on AWS using Terraform and managing application deployments in production-like environments.
+
+Focused on designing reliable systems and improving application visibility through effective monitoring and metrics.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-### **Programming Languages**
-- JavaScript, Java, C++, SQL
-
-### **Frontend Development**
-- HTML, CSS  
-- React.js (Vite)  
-- Tailwind CSS  
-
-### **Backend & Databases**
-- Node.js, Express.js  
-- MongoDB  
-- RESTful APIs  
-
-### **Tools & Platforms**
-- Git, GitHub  
-- Postman  
-- Docker (basic)  
-- Kubernetes (basic)  
-- Render (Deployment)
+- Operating Systems: Linux  
+- Version Control: Git  
+- Containerization: Docker  
+- Infrastructure as Code: Terraform  
+- Orchestration: Kubernetes  
+- Monitoring and Observability: Prometheus, Grafana  
+- Cloud: AWS  
 
 ---
 
-## 📚 Featured Projects
+## Projects
 
-### 🔹 NoteVault — MERN Stack Notes Application
-- Full-stack notes application built using **MongoDB, Express.js, React.js, and Node.js**
-- Designed and implemented **RESTful APIs** for efficient client–server communication
-- Integrated **MongoDB** for persistent storage and **rate limiting using Upstash Redis**
-- Built a responsive UI using **React (Vite) and Tailwind CSS**
-- Deployed on **Render** with production environment configuration  
-- **Tech Stack:** JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+### MediLearn AI (DevOps and Monitoring Project)
 
-🔗 Repository: https://github.com/mukuld86/NoteVault
+AI-powered learning platform for medical students, deployed on Kubernetes with full observability.
 
----
+#### Features
+- AI-based quiz generation  
+- Automated evaluation and feedback  
+- Secure authentication using JWT and HttpOnly cookies  
+- User profiles and leaderboard  
+- Real-time monitoring dashboard  
 
-### 🔹 Currency Converter
-- Responsive web-based currency converter with real-time exchange rates
-- Integrated **Frankfurter API** to support 150+ international currencies
-- Implemented input validation and instant conversion feedback  
-- **Tech Stack:** HTML, CSS, JavaScript, Frankfurter API
+#### DevOps Implementation
+- Containerized application using Docker  
+- Deployed on Kubernetes (Minikube and AWS EKS)  
+- Used NodePort service for external access  
+- Implemented custom metrics via `/api/metrics`  
+- Installed monitoring stack using Helm  
 
----
-
-### 🔹 Online Grocery Shopping Website
-- Fully responsive multi-page grocery website
-- Implemented dynamic cart functionality using JavaScript
-- 100% client-side interactivity  
-- **Tech Stack:** HTML, CSS, JavaScript
-
----
-
-## 🏆 Achievements
-- 🌍 **Global Rank 1476** in a LeetCode Weekly Contest (20,000+ participants)
-- 🧩 Solved **140+ problems on LeetCode**, demonstrating consistent problem-solving practice
+#### Monitoring
+- Prometheus for metrics collection  
+- Grafana dashboards for visualization  
+- Metrics tracked:
+  - Request traffic  
+  - Latency  
+  - Error rate  
+  - Database query performance  
+  - Application health and uptime  
 
 ---
 
-## 🌱 Currently Learning
+### Project 2 (Deployed using Terraform on AWS)
+
+- Provisioned AWS infrastructure using Terraform  
+- Automated creation of compute and networking resources  
+- Deployed application on cloud environment  
+- Ensured scalable and reproducible infrastructure  
+
+---
+
+### Project 3 (Deployed using Terraform on AWS)
+
+- Used Terraform for infrastructure provisioning  
+- Managed cloud resources efficiently  
+- Deployed application with focus on reliability and scalability  
+
+## Achievements
+-  **Global Rank 1476** in a LeetCode Weekly Contest (20,000+ participants)
+-  Solved **180+ problems on LeetCode**, demonstrating consistent problem-solving practice
+
+---
+
+## Currently Learning
 - Advanced Data Structures & Algorithms  
-- **DevOps fundamentals and tools:** Docker, Kubernetes, Jenkins  
-- **Monitoring & Observability:** Prometheus, Grafana  
+- **DevOps fundamentals and tools:** Jenkins, Ansible  
 - CI/CD concepts and deployment workflows  
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/mukul-deshwal86" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
