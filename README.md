@@ -1,4 +1,4 @@
-# Mukul Deshwal – Portfolio
+# Mukul Deshwal
 
 ## About Me
 
@@ -9,11 +9,13 @@ Experienced in containerization, orchestration, and observability using modern t
 Focused on designing reliable systems and improving application visibility through effective monitoring and metrics.
 
 ---
-
 ## Skills
 
 - Operating Systems: Linux  
 - Version Control: Git  
+- Frontend: HTML, CSS, React, Next.js  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
 - Containerization: Docker  
 - Infrastructure as Code: Terraform  
 - Orchestration: Kubernetes  
@@ -54,21 +56,28 @@ AI-powered learning platform for medical students, deployed on Kubernetes with f
 
 ---
 
-### Project 2 (Deployed using Terraform on AWS)
+### AWS Infrastructure Automation using Terraform
 
-- Provisioned AWS infrastructure using Terraform  
-- Automated creation of compute and networking resources  
-- Deployed application on cloud environment  
-- Ensured scalable and reproducible infrastructure  
+- Designed and automated AWS cloud infrastructure using Terraform following Infrastructure as Code (IaC) principles  
+- Configured an AWS-native CI/CD pipeline to trigger infrastructure deployment automatically on GitHub code pushes  
+- Orchestrated Terraform workflows using AWS CodePipeline for repeatable and consistent infrastructure provisioning  
+- Provisioned and managed EC2 instances and security groups using declarative Terraform configurations  
+- Maintained infrastructure code in GitHub with version-controlled deployments  
+
+**Tech used:** AWS (EC2, CodePipeline, IAM basics), Terraform, Git, GitHub  
 
 ---
 
-### Project 3 (Deployed using Terraform on AWS)
+### Currency Converter (Web Application)
 
-- Used Terraform for infrastructure provisioning  
-- Managed cloud resources efficiently  
-- Deployed application with focus on reliability and scalability  
+- Built a responsive web application to convert currencies in real-time  
+- Integrated external API for live exchange rates  
+- Designed clean UI for better user experience  
+- Implemented dynamic updates without page reload  
 
+**Tech used:** HTML, CSS, JavaScript  
+
+---
 ## Achievements
 -  **Global Rank 1476** in a LeetCode Weekly Contest (20,000+ participants)
 -  Solved **180+ problems on LeetCode**, demonstrating consistent problem-solving practice
