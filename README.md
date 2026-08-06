@@ -12,14 +12,14 @@ I enjoy solving real-world problems, learning new technologies, and building rel
 
 ## Skills
 
-- **Programming:** C#, SQL, JavaScript
+- **Programming:** C#, SQL, JavaScript, Java
 - **Backend:** ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, LINQ, REST APIs, Repository Pattern
-- **Frontend:** React, HTML, CSS, Bootstrap, Next.js
+- **Frontend:** React, HTML, CSS, Bootstrap
 - **Database:** SQL Server, MongoDB
 - **Cloud:** Microsoft Azure, AWS
 - **Container Orchestration:** Kubernetes
 - **Monitoring:** Prometheus, Grafana
-- **Tools:** Git, GitHub, Swagger, Postman, Visual Studio, VS Code, Linux
+- **Tools:** Git, GitHub, Swagger, Postman, Visual Studio, VS Code
 
 ---
 
