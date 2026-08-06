@@ -2,103 +2,116 @@
 
 ## About Me
 
-DevOps-focused developer with hands-on experience in building, deploying, and monitoring scalable applications on cloud infrastructure.
+Software Engineer with hands-on experience in developing full-stack web applications using **C#, ASP.NET Core, Entity Framework Core, SQL Server, React, and REST APIs**. Passionate about building scalable, maintainable applications by applying object-oriented programming principles and modern software development practices.
 
-Experienced in containerization, orchestration, and observability using modern tools such as Docker, Kubernetes, Prometheus, and Grafana. Skilled in provisioning infrastructure on AWS using Terraform and managing application deployments in production-like environments.
+Alongside application development, I have practical experience deploying and monitoring cloud-native applications on **Microsoft Azure** and **AWS** using **Kubernetes**, with observability implemented through **Prometheus** and **Grafana**.
 
-Focused on designing reliable systems and improving application visibility through effective monitoring and metrics.
+I enjoy solving real-world problems, learning new technologies, and building reliable software that delivers meaningful impact.
 
 ---
+
 ## Skills
 
-- Operating Systems: Linux  
-- Version Control: Git  
-- Frontend: HTML, CSS, React, Next.js  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
-- Containerization: Docker  
-- Infrastructure as Code: Terraform  
-- Orchestration: Kubernetes  
-- Monitoring and Observability: Prometheus, Grafana  
-- Cloud: AWS  
+- **Programming:** C#, SQL, JavaScript
+- **Backend:** ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, LINQ, REST APIs, Repository Pattern
+- **Frontend:** React, HTML, CSS, Bootstrap, Next.js
+- **Database:** SQL Server, MongoDB
+- **Cloud:** Microsoft Azure, AWS
+- **Container Orchestration:** Kubernetes
+- **Monitoring:** Prometheus, Grafana
+- **Tools:** Git, GitHub, Swagger, Postman, Visual Studio, VS Code, Linux
 
 ---
 
 ## Projects
 
-### MediLearn AI (DevOps and Monitoring Project)
+### Student Management System
 
-AI-powered learning platform for medical students, deployed on Kubernetes with full observability.
+A RESTful Student Management application developed using **ASP.NET Core Web API**.
 
 #### Features
-- AI-based quiz generation  
-- Automated evaluation and feedback  
-- Secure authentication using JWT and HttpOnly cookies  
-- User profiles and leaderboard  
-- Real-time monitoring dashboard  
+- Student CRUD operations
+- RESTful API architecture
+- Entity Framework Core integration
+- SQL Server database
+- Repository Pattern implementation
+- API documentation using Swagger
+- API testing with Postman
 
-#### DevOps Implementation
-- Containerized application using Docker  
-- Deployed on Kubernetes (Minikube and AWS EKS)  
-- Used NodePort service for external access  
-- Implemented custom metrics via `/api/metrics`  
-- Installed monitoring stack using Helm  
-
-#### Monitoring
-- Prometheus for metrics collection  
-- Grafana dashboards for visualization  
-- Metrics tracked:
-  - Request traffic  
-  - Latency  
-  - Error rate  
-  - Database query performance  
-  - Application health and uptime  
+**Tech Used:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, Swagger, Postman
 
 ---
 
-### AWS Infrastructure Automation using Terraform
+### Employee Management System
 
-- Designed and automated AWS cloud infrastructure using Terraform following Infrastructure as Code (IaC) principles  
-- Configured an AWS-native CI/CD pipeline to trigger infrastructure deployment automatically on GitHub code pushes  
-- Orchestrated Terraform workflows using AWS CodePipeline for repeatable and consistent infrastructure provisioning  
-- Provisioned and managed EC2 instances and security groups using declarative Terraform configurations  
-- Maintained infrastructure code in GitHub with version-controlled deployments  
+A responsive Employee Management application built using **ASP.NET Core MVC**.
 
-**Tech used:** AWS (EC2, CodePipeline, IAM basics), Terraform, Git, GitHub  
+#### Features
+- Employee CRUD operations
+- Responsive UI with Bootstrap
+- Entity Framework Core integration
+- SQL Server database
+- Repository Pattern implementation
+- Server-side validation and model binding
+
+**Tech Used:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, Bootstrap
+
+---
+
+### MediLearn AI
+
+AI-powered learning platform for medical students built using the **MERN Stack** and deployed on **AWS Kubernetes**.
+
+#### Features
+- AI-powered quiz generation
+- Automated evaluation and feedback
+- Secure authentication using JWT
+- User profiles and leaderboard
+- Responsive React interface
+
+#### Cloud Deployment & Monitoring
+- Deployed on AWS using Kubernetes (Amazon EKS)
+- Configured Deployments, Services, and Ingress resources
+- Integrated Prometheus and Grafana for application monitoring
+- Built dashboards for application health, traffic, latency, and performance metrics
+
+**Tech Used:** MongoDB, Express.js, React, Node.js, AWS, Kubernetes, Prometheus, Grafana
 
 ---
 
-### Currency Converter (Web Application)
-
-- Built a responsive web application to convert currencies in real-time  
-- Integrated external API for live exchange rates  
-- Designed clean UI for better user experience  
-- Implemented dynamic updates without page reload  
-
-**Tech used:** HTML, CSS, JavaScript  
-
----
 ## Achievements
--  **Global Rank 1476** in a LeetCode Weekly Contest (20,000+ participants)
--  Solved **180+ problems on LeetCode**, demonstrating consistent problem-solving practice
+
+- 🏆 Global Rank **1476** in a LeetCode Weekly Contest
+- 💻 Solved **180+** problems on LeetCode
+- 🚀 Hands-on experience developing and deploying full-stack applications using modern Microsoft and cloud technologies
 
 ---
 
 ## Currently Learning
-- Advanced Data Structures & Algorithms  
-- **DevOps fundamentals and tools:** Jenkins, Ansible  
-- CI/CD concepts and deployment workflows  
+
+- Advanced ASP.NET Core
+- Authentication & Authorization (JWT)
+- Design Patterns & Clean Architecture
+- Azure Cloud Services
+- Microservices with .NET
 
 ---
 
 ## Connect With Me
+
 <p align="left">
 <a href="https://linkedin.com/in/mukul-deshwal86" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
+
+<a href="https://github.com/mukuld86" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40"/>
+</a>
+
 <a href="https://www.leetcode.com/u/mukuld86" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
+
 <a href="https://www.codechef.com/users/mukul_86" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
 </a>
@@ -106,5 +119,6 @@ AI-powered learning platform for medical students, deployed on Kubernetes with f
 
 ---
 
-Thanks for visiting my profile!  
-Feel free to explore my repositories or connect with me 🚀
+⭐ Thanks for visiting my profile!
+
+I'm always open to collaborating on **.NET**, **Cloud**, **Kubernetes**, and **Open Source** projects. Feel free to explore my repositories or connect with me!
