@@ -97,12 +97,12 @@ AI-powered learning platform for medical students built using the **MERN Stack**
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuld86&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mukuld86&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukuld86&layout=compact&theme=tokyonight" />
 </p>
-
 
 ## Connect With Me
 
