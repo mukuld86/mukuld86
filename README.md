@@ -99,8 +99,6 @@ AI-powered learning platform for medical students built using the **MERN Stack**
 
 ## 📊 GitHub Statistics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukuld86&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukuld86&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukuld86&theme=github_dark)
