@@ -2,9 +2,9 @@
 
 ## About Me
 
-Software Engineer with hands-on experience in developing full-stack web applications using **C#, ASP.NET Core, Entity Framework Core, SQL Server, React, and REST APIs**. Passionate about building scalable, maintainable applications by applying object-oriented programming principles and modern software development practices.
+Software Engineer with hands-on experience developing full-stack web applications using **C#, ASP.NET Core, Entity Framework Core, SQL Server, React, and REST APIs**. Passionate about building scalable and maintainable applications by applying object-oriented programming principles, layered architecture, and modern software development practices.
 
-Alongside application development, I have practical experience deploying and monitoring cloud-native applications on **Microsoft Azure** and **AWS** using **Kubernetes**, with observability implemented through **Prometheus** and **Grafana**.
+Alongside application development, I have practical experience deploying and monitoring cloud-native applications on **AWS and Microsoft Azure** using **Kubernetes**, with observability implemented through **Prometheus** and **Grafana**.
 
 I enjoy solving real-world problems, learning new technologies, and building reliable software that delivers meaningful impact.
 
@@ -27,34 +27,54 @@ I enjoy solving real-world problems, learning new technologies, and building rel
 
 ### Student Management System
 
-A RESTful Student Management application developed using **ASP.NET Core Web API**.
+A full-stack Student Management application developed using **ASP.NET Core Web API and React**.
 
 #### Features
 - Student CRUD operations
 - RESTful API architecture
 - Entity Framework Core integration
 - SQL Server database
-- Repository Pattern implementation
-- API documentation using Swagger
-- API testing with Postman
+- Repository and Service Layer architecture
+- JWT authentication and role-based authorization
+- React frontend with API integration
+- Search students by registration number
+- Role-based UI actions for Admin and Teacher users
+- API documentation and testing using Swagger
 
-**Tech Used:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, Swagger, Postman
+**Tech Used:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, React, Bootstrap, JWT, Swagger
 
 ---
 
-### Employee Management System
+### AutoTrack Vehicle Rental Service
 
-A responsive Employee Management application built using **ASP.NET Core MVC**.
+A web-based vehicle fleet management application developed using **ASP.NET Core MVC** and a three-layer architecture.
 
 #### Features
-- Employee CRUD operations
-- Responsive UI with Bootstrap
-- Entity Framework Core integration
-- SQL Server database
-- Repository Pattern implementation
-- Server-side validation and model binding
+- Vehicle CRUD operations
+- Search vehicles by type
+- Vehicle availability tracking
+- Vehicle registration date management
+- Data Annotation validation
+- Repository Pattern
+- Service Layer
+- Entity Framework Core with SQL Server
+- Structured exception handling
+- Razor Views with Bootstrap
+- Separate Class Library projects producing reusable DLL assemblies
 
-**Tech Used:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, Bootstrap
+#### Architecture
+
+```text
+Presentation Layer
+        ↓
+Service Layer
+        ↓
+Data Access Layer
+        ↓
+SQL Server
+```
+
+**Tech Used:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, LINQ, Bootstrap, Repository Pattern, Dependency Injection
 
 ---
 
@@ -90,10 +110,11 @@ AI-powered learning platform for medical students built using the **MERN Stack**
 ## Currently Learning
 
 - Advanced ASP.NET Core
-- Authentication & Authorization (JWT)
+- Authentication & Authorization
 - Design Patterns & Clean Architecture
 - Azure Cloud Services
 - Microservices with .NET
+- Advanced Entity Framework Core and LINQ
 
 ---
 
@@ -102,6 +123,8 @@ AI-powered learning platform for medical students built using the **MERN Stack**
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukuld86&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukuld86&theme=github_dark)
+
+---
 
 ## Connect With Me
 
