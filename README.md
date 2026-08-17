@@ -25,6 +25,46 @@ I enjoy solving real-world problems, learning new technologies, and building rel
 
 ## Projects
 
+### 📚 Library Management System
+
+A multi-layer **ASP.NET Core MVC** application developed to practice enterprise-style .NET development and clean application architecture.
+
+**Tech Stack:**
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Bootstrap
+- LINQ
+- Repository Pattern
+- Service Layer
+- Dependency Injection
+
+**Key Features:**
+- 📖 Book CRUD operations
+- 🏷️ Category management
+- 👥 Member management
+- 🔄 Book borrowing and returning
+- 🔍 Book search
+- ✅ Data Annotation validation
+- 📊 Book availability tracking
+- 🗄️ Relational database with multiple tables
+- 🧩 Multi-layer architecture using Class Libraries/DLLs
+
+**Architecture:**
+
+```text
+ASP.NET Core MVC
+       ↓
+Service Layer
+       ↓
+Repository Layer
+       ↓
+Entity Framework Core
+       ↓
+SQL Server
+```
+
 ### Student Management System
 
 A full-stack Student Management application developed using **ASP.NET Core Web API and React**.
@@ -42,6 +82,21 @@ A full-stack Student Management application developed using **ASP.NET Core Web A
 - API documentation and testing using Swagger
 
 **Tech Used:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, React, Bootstrap, JWT, Swagger
+
+**Architecture:**
+
+```text
+ASP.NET Core MVC
+       ↓
+Service Layer
+       ↓
+Repository Layer
+       ↓
+Entity Framework Core
+       ↓
+SQL Server
+```
+
 
 ---
 
